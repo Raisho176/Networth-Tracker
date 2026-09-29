@@ -1,4 +1,4 @@
-const CACHE = 'nw-v27';
+const CACHE = 'nw-v28';
 const ASSETS = [
   './',
   './index.html',
